@@ -1,7 +1,7 @@
 .img1{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./gro2.webp);
+    background-image: url(./img/gro2.webp);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -30,7 +30,7 @@
   .img2{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./gro.png);
+    background-image: url(./img/gro.png);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -58,7 +58,7 @@
   }.img3{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./grooo.webp);
+    background-image: url(./img/grooo.webp);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -87,7 +87,7 @@
   .img4{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./gro9.jpg);
+    background-image: url(./img/gro9.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -116,7 +116,7 @@
   .img5{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./gro7.jpg);
+    background-image: url(./img/gro7.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -145,7 +145,7 @@
   .img6{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./gr05.jpeg);
+    background-image: url(./img/gr05.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
