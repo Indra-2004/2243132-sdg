@@ -1,0 +1,174 @@
+.img1{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./gro2.webp);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 7%;
+    height: 240px;
+    float: left;
+    margin-left: 2%;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img1con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img1:hover .img1con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }
+  .img2{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./gro.png);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 7%;
+    height: 240px;
+    margin-left: 3%;
+    float: left;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img2con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img2:hover .img2con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }.img3{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./grooo.webp);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 7%;
+    height: 240px;
+    float: left;
+    margin-left: 3%;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img3con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img3:hover .img3con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }
+  .img4{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./gro9.jpg);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 5%;
+    height: 240px;
+    margin-left: 2%;
+    float: left;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img4con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img4:hover .img4con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }
+  .img5{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./gro7.jpg);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 5%;
+    height: 240px;
+    margin-left: 3%;
+    float: left;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img5con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img5:hover .img5con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }
+  .img6{
+    display: flex;
+    flex-direction: column-reverse;
+    background-image: url(./gr05.jpeg);
+    background-size: 350px 270px;
+    color: transparent;
+    position: relative;
+    top: 5%;
+    height: 240px;
+    margin-left: 3%;
+    float: left;
+    width: 330px;
+    background-repeat: no-repeat;
+    
+  }
+  .img6con{
+    width: 350px;
+    height: 0;
+    opacity: 0.6;
+    background-color: #e6e6e6;
+    color: transparent;
+    transition: height 200ms , color 300ms;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .img6:hover .img6con{
+    height: 150px;
+    color: rgb(0, 0, 0);
+    
+  }
+ 
